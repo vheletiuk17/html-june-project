@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+.Main{
+    margin: 0;
+}
+#First{
+    width: 100vw;
+    height: 100vh;
+    background: #ce5c5c;
+}
+
+
+#Second{
+    width: 100vw;
+    height: 100vh;
+    background: #76ce5c;
+}
+#Third{
+    width: 100vw;
+    height: 100vh;
+    background: #5b91d7;
+}
+ .text{
+     text-align: center;
+     color: white;
+     font-size: 34px;
+     padding-top: 100px;
+ }
+ .arrow{
+     font-size: 100px;
+     text-align: center;
+     color: azure;
+ }
+
+
+
+
+

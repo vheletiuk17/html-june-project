@@ -1,0 +1,14 @@
+@media screen and (min-width: 100px) and (max-width: 585px) {
+.A, .C{
+    height: 20vh;
+    width: 100vw;
+}
+    .B{
+        height: 60vh;
+        width: 100vw;
+    }
+.Father{
+    display: flex;
+    flex-direction: column;
+}
+}

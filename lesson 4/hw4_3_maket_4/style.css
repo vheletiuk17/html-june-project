@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+}
+header{
+    width: 100vw;
+    height: 20vh;
+    background: #927D7D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.ContentBox{
+    width: 100vw;
+    height: 60vh;
+    display:flex ;
+}
+.main{
+    width: 70vw;
+    height: 60vh;
+}
+.mainSectore{
+    display: flex;
+}
+.content_1{
+    width: 15vw;
+    height: 60vh;
+    background: #817C7C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.content_2{
+    width: 15vw;
+    height: 60vh;
+    background: #B7AEAE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+footer{
+    width: 100vw;
+    height: 20vh;
+    background: #BDBDBD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.header{
+    width: 70vw;
+    height: 15vh;
+    background: #CCBEBE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.mainSector_1{
+    width: 15vw;
+    height: 30vh;
+    background: #473434;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.mainSector_2{
+    width: 40vw;
+    height: 30vh;
+    background: #A74848;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.mainSector_3{
+    width: 15vw;
+    height: 30vh;
+    background: #925A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.footer{
+    width: 70vw;
+    height: 15vh;
+    background: #CF6262;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}

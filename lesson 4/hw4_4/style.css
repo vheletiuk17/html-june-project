@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    color: #000;
+    font-family: Oswald;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+ul{
+    color: #000;
+    font-family: Oswald;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+.List{
+    width: 100vw;
+    visibility: 100vh;
+    display: flex;
+    align-items: center;
+}
+.List ul{
+    padding-left: 150px;
+}
+.recept{
+    color: #000;
+    font-family: Oswald;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

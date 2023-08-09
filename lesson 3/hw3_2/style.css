@@ -1,0 +1,21 @@
+html{
+    margin: 0px;
+}
+.Main{
+    width: 100vw;
+    height: 50vh;
+    background: #b74343;
+
+}
+.Main2{
+    width: 100vw;
+    height: 50vh;
+    background: #4345b7;
+}
+.text{
+    font-family: 'Frank Ruhl Libre', serif;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding-top: 60px;
+}

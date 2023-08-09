@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+}
+.FatherConteiner{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.GameSectore{
+    width: 12vw;
+    height: 40vh;
+    border: 1px solid gray;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.GameSectore p{
+    width: 190px;
+}
+.icoon{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    left: 90px;
+    top: -25px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.StudySectore{
+    width: 12vw;
+    height: 40vh;
+    border: 1px solid gray;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.StudySectore p{
+    width: 190px;
+}
+.icoon2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    left: 90px;
+    top: -25px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ReadSectore{
+    width: 12vw;
+    height: 40vh;
+    border: 1px solid gray;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ReadSectore p{
+    width: 190px;
+}
+.icoon3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    left: 90px;
+    top: -25px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 35px;
+    height: 35px;
+}

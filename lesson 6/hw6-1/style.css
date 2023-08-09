@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+.Father{
+    width: 100vw;
+    display: flex;
+}
+.A{
+    width: 100vw;
+    height: 35vh;
+    background: gray;
+}
+.B{
+    width: 70vw;
+    height: 65vh;
+    background: gray;
+}
+.C{
+    width: 30vw;
+    height: 65vh;
+    background: gray;
+}
+.A, .B, .C{
+    border: 0.5px solid;
+      }

@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 20vh;
+    background: #D9D9D9;
+}
+.Main{
+    width: 100vw;
+    height: 60vh;
+
+}
+footer{
+    width: 100vw;
+    height: 20vh;
+    background: #BDBDBD;
+}
+.Main{
+    display: flex;
+
+}
+.News-1{
+    height: 60vh;
+    width: 20vw;
+    background: #817C7C;
+}
+.content-1{
+    width: 60vw;
+    height: 30vh;
+    background: #ABA8A8;
+}
+.content-2{
+    width: 60vw;
+    height: 30vh;
+    background: #878484;
+}
+.News-2{
+    height: 60vh;
+    width: 20vw;
+    background: #817C7C;
+}
+.text{
+    font-size: 30px;
+    text-align: center;
+
+}

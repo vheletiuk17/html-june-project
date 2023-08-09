@@ -1,0 +1,56 @@
+.centerBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 35vw;
+    height: 70vh;
+    border: 1px solid gray;
+}
+img{
+    width: 250px;
+    height: 130px;
+    padding: 30px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#button{
+    width: 200px;
+    height: 30px;
+    background: rgba(9, 53, 194, 0.42);
+    outline: none;
+    border-radius: 10px;
+
+}
+#text{
+    width: 200px;
+    height: 30px;
+    outline: 1x solid black;
+    border-radius: 5px;
+}
+#password{
+    width: 200px;
+    height: 30px;
+    outline: 1x solid black;
+    border-radius: 5px;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35vw;
+    height: 10vh;
+    border: 1px solid gray;
+    margin-top: 10PX;
+}
+}
